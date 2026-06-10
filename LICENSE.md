@@ -1,4 +1,4 @@
-# 
+# Ultimate Practical AI Projects for Students scripts. Featuring edge-AI and model-optimization — optimized for maximum performance.
 
 
 
